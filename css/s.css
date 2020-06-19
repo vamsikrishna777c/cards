@@ -61,10 +61,18 @@ h4{
 	border-radius: 5%;
 	/*padding: 4%;*/
 }
+.child{
+	background-color: lightcyan;
+	margin:4%;
+	width: 75%;
+	text-align: center;
+	border-radius: 5%;
+	box-shadow: 4px 4px 4px 4px #1C5AD0;
+}
 .child2{
 	background-color: lightcyan;
 	margin:5%;
-	width: 90%;
+	width: 70%;
 	text-align: center;
 	border-radius: 5%;
 	height: 25%;
@@ -98,10 +106,19 @@ img{
 #parent{
 	background-color: #FFFFFF;
 	margin: 10%;
+	width: 70%;
 	display: inline-block;
 	justify-content: space-around;
 	border-radius: 5%;
 	/*padding: 4%;*/
+}
+.child{
+	background-color: lightcyan;
+	margin:5%;
+	width: 70%;
+	text-align: center;
+	border-radius: 5%;
+	box-shadow: 4px 4px 4px 4px #1C5AD0;
 }
 .child2{
 	background-color: lightcyan;
